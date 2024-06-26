@@ -22,5 +22,5 @@ Check out my work on GitHub and certifications on Credly.
 Let's Collaborate
 I'm enthusiastic about new projects and collaborations. Reach out if you have an opportunity in mind!
 
-Thanks for Visiting!
+
 Thank you for visiting my GitHub profile. Let's connect and explore exciting opportunities in technology and cybersecurity.
