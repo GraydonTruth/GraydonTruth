@@ -1,16 +1,22 @@
-## Hi there 👋
+Welcome to My GitHub Profile 👋
+About Me
+Greetings! I'm Ricky Graydon Roberts, a junior developer and data analyst passionate about cybersecurity. Currently, I'm refining my skills at Skunkworks (Pty) Ltd, contributing to diverse projects in data analysis and software development.
 
-<!--
-**GraydonTruth/GraydonTruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I Do
+🔍 Exploring the convergence of cybersecurity and data analysis.
+🌱 Continuously expanding my knowledge in programming and cybersecurity best practices.
+💼 Open to collaborating on projects in cybersecurity, data analysis, and software development.
+Certifications
+🎓 Google Cybersecurity Specialization
+🎓 Enterprise Design Thinking Practitioner
+🎓 Introduction to Generative AI
+Connect with Me
+📫 Feel free to contact me via email or connect on LinkedIn.
+Portfolio and Credentials
+Check out my work on GitHub and certifications on Credly.
 
-Here are some ideas to get you started:
+Let's Collaborate
+I'm enthusiastic about new projects and collaborations. Reach out if you have an opportunity in mind!
 
-- 🔭 I’m currently working on a few assignments presented by pero academy
-- 🌱 I’m currently learning cybersecurity threats and analysis
-- 👯 I’m looking to collaborate on any projects that you are currently busy with so that I may expand my knowledge
-- 🤔 I’m looking for help with anything that could help me further my knowledge in cybersecurity.
-- 💬 Ask me about ...
-- 📫 How to reach me: graydontruth@gmail.com or ricky@skunkworks.africa
-- 😄 Pronouns: He/Him
-- ⚡ Fun facts: I enjoy online gaming and making new friends
--->
+Thanks for Visiting!
+Thank you for visiting my GitHub profile. Let's connect and explore exciting opportunities in technology and cybersecurity.
