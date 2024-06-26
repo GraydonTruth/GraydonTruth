@@ -1,6 +1,10 @@
 Welcome to My GitHub Profile 👋
-About Me
+
+
+
 Greetings! I'm Ricky Graydon Roberts, a junior developer and data analyst passionate about cybersecurity. Currently, I'm refining my skills at Skunkworks (Pty) Ltd, contributing to diverse projects in data analysis and software development.
+
+
 
 What I Do
 🔍 Exploring the convergence of cybersecurity and data analysis.
