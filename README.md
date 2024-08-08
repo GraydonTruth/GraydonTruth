@@ -1,26 +1,26 @@
-Welcome to My GitHub Profile 👋
+Hi there 👋, I’m @ricky-graydon-roberts
+Junior Developer | Data Analyst | Cybersecurity Enthusiast
 
+👀 I’m interested in Cybersecurity, Data Analysis, and Software Development.
+🌱 I’m currently enhancing my skills at Skunkworks (Pty) Ltd and exploring new trends in cybersecurity and data analysis.
 
+💞️ I’m looking to collaborate on innovative technology projects and cybersecurity solutions that align with Skunkworks' vision.
 
-Greetings! I'm Ricky Graydon Roberts, a junior developer and data analyst passionate about cybersecurity. Currently, I'm refining my skills at Skunkworks (Pty) Ltd, contributing to diverse projects in data analysis and software development.
-
-
-
-What I Do
-🔍 Exploring the convergence of cybersecurity and data analysis.
-🌱 Continuously expanding my knowledge in programming and cybersecurity best practices.
-💼 Open to collaborating on projects in cybersecurity, data analysis, and software development.
-Certifications
-🎓 Google Cybersecurity Specialization
-🎓 Enterprise Design Thinking Practitioner
-🎓 Introduction to Generative AI
-Connect with Me
-📫 Feel free to contact me via email or connect on LinkedIn.
-Portfolio and Credentials
-Check out my work on GitHub and certifications on Credly.
-
-Let's Collaborate
-I'm enthusiastic about new projects and collaborations. Reach out if you have an opportunity in mind!
-
-
-Thank you for visiting my GitHub profile. Let's connect and explore exciting opportunities in technology and cybersecurity.
+📫 How to reach me
+Email: info@skunkworks.africa
+LinkedIn: Ricky Graydon Roberts
+🚀 Projects I'm Involved In
+Project	Description
+Skunkworks Projects	Contributing to diverse projects in data analysis and software development at Skunkworks (Pty) Ltd.
+Cybersecurity Initiatives	Working on cybersecurity enhancements and solutions.
+Data Analysis Tools	Developing tools and techniques for comprehensive data analysis.
+🎯 Future Objectives
+Expand Expertise: Continue mastering technologies and best practices in cybersecurity and data analysis.
+Innovate: Collaborate on cutting-edge projects that push the boundaries of technology.
+Educate: Share knowledge and contribute to the development of the next generation of tech professionals.
+Secure: Enhance cybersecurity measures to protect data and infrastructure.
+Automate: Increase process efficiency through advanced automation techniques.
+🌐 Connect with Me
+LinkedIn: Ricky Graydon Roberts
+GitHub: ricky-graydon-roberts
+© 2024 Skunkworks (Pty) Ltd
