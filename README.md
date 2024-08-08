@@ -8,7 +8,7 @@ Junior Developer | Data Analyst | Cybersecurity Enthusiast
 
 📫 How to reach me
 Email: info@skunkworks.africa
-LinkedIn: Ricky Graydon Roberts
+LinkedIn: Ricky Roberts
 
 
 
@@ -30,7 +30,6 @@ Automate: Increase process efficiency through advanced automation techniques.
 
 
 🌐 Connect with Me
-LinkedIn: Ricky Roberts
 
 
 
